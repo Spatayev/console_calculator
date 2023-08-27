@@ -2,4 +2,5 @@
 Homework "Console calculator"
 
 Install package
+
 npm install
